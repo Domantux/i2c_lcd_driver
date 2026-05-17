@@ -151,7 +151,7 @@ The display is cleared automatically on unload.
 
 ## License
 
-GPL
+GPL-2.0
 
 ## Author
 
